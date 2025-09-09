@@ -1,5 +1,6 @@
-# Assignment 6 CH21B053
+# Assignment 6 CH21B006
 
-## Name: Kush Shah
+## Name: Aditya Sharma
 
 I have added the report to this repository. It contains the file structure, results as well as the way to run/reproduce the code.
+
